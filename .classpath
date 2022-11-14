@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/batik-all-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/bcpkix-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-net-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-net-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/commons-net-examples-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/fontbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/force-wsc-48.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/graphics2d-0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/jacob-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/jtds-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/LocalUploadToyota.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/opencsv-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiwam.bhargava/eclipse-workspace/Imacro/lib/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
