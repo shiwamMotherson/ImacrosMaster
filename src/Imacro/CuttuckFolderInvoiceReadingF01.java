@@ -16,7 +16,7 @@ public class CuttuckFolderInvoiceReadingF01 {
 	static String UnitCode="F01";
 	 public static void main(String args[]) throws IOException {
 		 CuttuckFolderInvoiceReadingF01 ctdms= new CuttuckFolderInvoiceReadingF01();
-		for(int i=1;i<=10;i++) {
+		for(int i=1;i<=21;i++) {
 		 Instant now = Instant.now();
 			Instant yesterday1 = now.minus(i, ChronoUnit.DAYS);
 			yesterday= yesterday1.toString().substring(0,10);

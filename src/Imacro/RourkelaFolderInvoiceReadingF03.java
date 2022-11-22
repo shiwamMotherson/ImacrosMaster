@@ -16,7 +16,7 @@ public class RourkelaFolderInvoiceReadingF03 {
 	static String UnitCode="F03";
 	 public static void main(String args[]) throws IOException {
 		 RourkelaFolderInvoiceReadingF03 ctdms= new RourkelaFolderInvoiceReadingF03();
-		 for(int i=0;i<=34;i++) {
+		 for(int i=0;i<=22;i++) {
 		 Instant now = Instant.now();
 			Instant yesterday1 = now.minus(i, ChronoUnit.DAYS);
 			yesterday= yesterday1.toString().substring(0,10);
